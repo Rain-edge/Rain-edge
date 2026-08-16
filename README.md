@@ -1,24 +1,16 @@
 <div align="center">
 
 <!-- 彩虹变色字母横幅 -->
-<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/cover.gif" width="495" alt="Rain-edge cover" />
+<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/cover_light.gif" width="495" alt="Rain-edge" />
 
 <br/>
 
 <!-- 打字机动画（多行） -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=495&height=100&multiline=true&lines=Hi%EF%BC%8C%E6%88%91%E6%98%AF%20Rain-edge%20%F0%9F%91%8B%3B%E4%BA%91%E8%AE%A1%E7%AE%97%20%2F%20DevOps%20%2F%20SRE%20%E6%96%B9%E5%90%91%E7%9A%84%E5%A4%A7%E4%B8%89%E5%AD%A6%E7%94%9F%3B%E5%8D%9A%E5%AE%A2%EF%BC%9Arain-edge.github.io" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=495&height=70&multiline=true&lines=Hi%EF%BC%8C%E6%88%91%E6%98%AF%20Rain-edge%3B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9Arain-edge.github.io" alt="typing" />
 
 <br/>
 
 <!-- 按钮：各占一行居中 -->
-<a href="https://rain-edge.github.io/">
-  <img src="https://img.shields.io/badge/Blog-rain--edge.github.io-17181a?style=for-the-badge&logo=hugo&logoColor=FF4088" alt="blog" />
-</a>
-<br/>
-<a href="https://github.com/Rain-edge/CloudForge">
-  <img src="https://img.shields.io/badge/CloudForge-%E4%BA%91%E5%8E%9F%E7%94%9F%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0-17181a?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="CloudForge" />
-</a>
-
 <br/>
 
 <!-- 贪吃蛇 -->
