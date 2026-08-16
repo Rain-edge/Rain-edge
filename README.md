@@ -2,8 +2,8 @@
 
 <!-- 打字机动画（多行） -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_dark.gif">
-  <img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_light.gif" width="495" alt="intro" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_dark2.gif">
+  <img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_light2.gif" width="495" alt="intro" />
 </picture>
 
 <br/>
