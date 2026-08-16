@@ -8,10 +8,10 @@
 <p>云计算 / DevOps / SRE 方向大三学生，正在准备实习</p>
 
 <a href="https://rain-edge.github.io/">
-  <img src="https://img.shields.io/badge/📝%20技术博客-rain--edge.github.io-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="blog" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%9D%20%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2-rain--edge.github.io-FF4088?style=for-the-badge&logo=hugo&logoColor=white" alt="blog" />
 </a>
 <a href="https://github.com/Rain-edge/CloudForge">
-  <img src="https://img.shields.io/badge/🚀%20CloudForge-云原生运维平台-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CloudForge" />
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80%20CloudForge-%E4%BA%91%E5%8E%9F%E7%94%9F%E8%BF%90%E7%BB%B4%E5%B9%B3%E5%8F%B0-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CloudForge" />
 </a>
 
 <br/>
