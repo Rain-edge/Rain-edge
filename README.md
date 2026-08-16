@@ -17,17 +17,19 @@
 <br/>
 <br/>
 
-<!-- 霓虹统计卡片（数据实时更新） -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Rain-edge&show_icons=true&theme=radical&hide_title=true" alt="stats" />
-</a>
+<!-- 连续提交火焰卡 -->
 <a href="https://git.io/streak-stats">
-  <img height="175" src="https://streak-stats.demolab.com?user=Rain-edge&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Rain-edge&theme=radical" alt="streak" />
 </a>
+
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rain-edge&layout=compact&theme=radical&hide=html" alt="top langs" />
-</a>
+
+<!-- 贡献折线图（每日自动更新） -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rain-edge&theme=github-light&color=7b2dff&line=ff69b4&point=18e299" width="560" alt="contribution graph" />
+
+<!-- GitHub 数据徽章（shields.io，稳定） -->
+<img src="https://img.shields.io/github/followers/Rain-edge?style=for-the-badge&label=FOLLOWERS&color=ff69b4" alt="followers" />
+<img src="https://img.shields.io/github/stars/Rain-edge/CloudForge?style=for-the-badge&label=CLOUDFORGE%20%E2%AD%90&color=7b2dff" alt="CloudForge stars" />
 
 <br/>
 
