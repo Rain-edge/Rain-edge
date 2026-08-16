@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- 彩虹变色字母横幅 -->
-<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/rainbow_banner.gif" width="495" alt="Rain-edge" />
+<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/cover.gif" width="495" alt="Rain-edge cover" />
 
 <br/>
 
 <!-- 打字机动画（多行） -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=495&height=140&multiline=true&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%20Rain-edge%20%E7%9A%84%E5%B0%8F%E7%AA%9D%20%F0%9F%8F%A0%3BK8s%20%E2%9C%A8%20Docker%20%E2%9C%A8%20CI%2FCD%20%E6%90%AC%E7%A0%96%E4%B8%AD%3B%E5%8A%AA%E5%8A%9B%E5%8F%98%E5%BC%BA%E7%9A%84%E4%BA%91%E5%8E%9F%E7%94%9F%E6%89%93%E5%B7%A5%E4%BA%BA%20%F0%9F%92%AA%3B%E5%8D%9A%E5%AE%A2%EF%BC%9Arain-edge.github.io%20%F0%9F%93%9D" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=495&height=100&multiline=true&lines=Hi%EF%BC%8C%E6%88%91%E6%98%AF%20Rain-edge%20%F0%9F%91%8B%3B%E4%BA%91%E8%AE%A1%E7%AE%97%20%2F%20DevOps%20%2F%20SRE%20%E6%96%B9%E5%90%91%E7%9A%84%E5%A4%A7%E4%B8%89%E5%AD%A6%E7%94%9F%3B%E5%8D%9A%E5%AE%A2%EF%BC%9Arain-edge.github.io" alt="typing" />
 
 <br/>
 
