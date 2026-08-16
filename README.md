@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机动画（多行） -->
-<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_rainbow.gif" width="495" alt="intro" />
+<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_rainbow2.gif" width="495" alt="intro" />
 
 <br/>
 
