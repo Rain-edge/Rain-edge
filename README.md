@@ -9,14 +9,10 @@
 <br/>
 
 <!-- 贪吃蛇 -->
-<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/snake_confetti.gif" width="495" alt="snake" />
+<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/output/github-contribution-grid-snake.gif" width="495" alt="snake" />
 
 <!-- 火焰卡 -->
-<table align="center"><tr>
-<td><img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/confetti_strip.gif" width="50" alt="confetti" /></td>
-<td><img src="https://streak-stats.demolab.com?user=Rain-edge&theme=default&hide_border=true&background=FFFFFF&stroke=0d9488&ring=0d9488&fire=10b981&currStreakNum=17181a&sideNums=5c5f66&currStreakLabel=0d9488" width="495" alt="streak" /></td>
-<td><img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/confetti_strip.gif" width="50" alt="confetti" /></td>
-</tr></table>
+<img src="https://streak-stats.demolab.com?user=Rain-edge&theme=default&hide_border=true&background=FFFFFF&stroke=0d9488&ring=0d9488&fire=10b981&currStreakNum=17181a&sideNums=5c5f66&currStreakLabel=0d9488" width="495" alt="streak" />
 
 <br/>
 
