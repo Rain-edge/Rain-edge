@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 打字机动画（多行） -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0d9488&center=true&vCenter=true&width=495&height=70&multiline=true&lines=%E8%BF%99%E9%87%8C%E6%98%AF%20Rain-edge%3B%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%EF%BC%9Arain-edge.github.io" alt="typing" />
+<img src="https://raw.githubusercontent.com/Rain-edge/Rain-edge/main/assets/typing_rainbow.gif" width="495" alt="intro" />
 
 <br/>
 
